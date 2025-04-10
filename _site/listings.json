@@ -2,7 +2,11 @@
   {
     "listing": "/seminars-rss.html",
     "items": [
-      "/seminars-rss/2025-05-21.html"
+      "/seminars-rss/2025-02-21.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
   }
 ]

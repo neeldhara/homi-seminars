@@ -1,5 +1,32 @@
 ---
 title: "History of Mathematics in India: Seminar Series"
+listing:
+  - id: upcoming
+    contents: seminars
+    type: table
+    fields: [date, title, speaker]
+    field-display-names:
+      speaker: "Speaker"
+    sort: "date desc"
+    filter-ui: false
+    sort-ui: false
+    categories: false
+    field-links: [title]
+    include:
+      status: upcoming
+  - id: past
+    contents: seminars
+    type: table
+    fields: [date, title, speaker]
+    field-display-names:
+      speaker: "Speaker"
+    sort: "date desc"
+    filter-ui: false
+    sort-ui: false
+    categories: false
+    field-links: [title]
+    include:
+      status: past
 ---
 
 
