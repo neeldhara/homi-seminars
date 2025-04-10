@@ -2,8 +2,8 @@
 title: " Coming Soon"
 speaker: "Neeldhara Misra"
 affiliation: "IIT Gandhinagar"
-date: "HOMI Talk Details"
-published: "HOMI Talk Details"
+date: "2025-08-20"
+published: "2025-08-20"
 date-format: "MMMM D, YYYY"
 time: "17:00 IST"
 abstract: |
@@ -24,18 +24,3 @@ automation: clean
 
 {{< meta abstract >}}
 
-#### About the Speaker
-
-{{< meta bio >}}
-
-::: {.button-bar}
-[{{< fa file-pdf >}} Slides]({{< meta slides-url >}}){.btn .btn-outline-primary .rounded-pill}
-:::
-
-#### Recording
-
-{{< meta recording-url >}}
-
-#### Abstract
-
-< meta abstract >
