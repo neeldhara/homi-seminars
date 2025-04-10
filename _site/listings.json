@@ -1,14 +1,15 @@
 [
   {
-    "listing": "/seminars-rss.html",
+    "listing": "/index.html",
     "items": [
-      "/seminars-rss/2025-08-20.html"
+      "/seminars/2025-07-16.html",
+      "/seminars/2025-08-20.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/seminars-rss.html",
     "items": [
-      "/seminars/2025-08-20.html"
+      "/seminars-rss/2025-08-20.html"
     ]
   }
 ]

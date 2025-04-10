@@ -1,0 +1,34 @@
+---
+title: " Foo Bar"
+speaker: "Jane Doe"
+affiliation: "Harvard"
+date: "2025-07-16"
+published: "2025-07-16"
+date-format: "MMMM D, YYYY"
+time: "17:00 IST"
+abstract: |
+  Testing
+bio: |
+  Random Bio
+speaker-website: ""
+recording-url: ""
+slides-url: ""
+status: "upcoming"
+toc: false
+title-block-banner: false
+automation: clean
+---
+
+
+
+#### About the Speaker
+
+{{< meta bio >}}
+
+::: {.button-bar}
+[{{< fa file-pdf >}} Slides]({{< meta slides-url >}}){.btn .btn-outline-primary .rounded-pill}
+:::
+
+#### Recording
+
+{{< meta recording-url >}}
