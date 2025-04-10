@@ -10,9 +10,9 @@
 <atom:link href="https://seminars.historyofmaths.in/seminars-rss.xml" rel="self" type="application/rss+xml"/>
 <description>HOMI Seminars is a seminar series under the History of Mathematics in India initiative at IITGN, focusing on the rich mathematical heritage of India.</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 10 Apr 2025 07:35:51 GMT</lastBuildDate>
+<lastBuildDate>Invalid Date</lastBuildDate>
 <item>
-  <title></title>
+  <title>Coming Soon</title>
   <link>https://seminars.historyofmaths.in/seminars-rss/2025-08-20.html</link>
   <description><![CDATA[ 
 
@@ -21,6 +21,21 @@
 
 <section id="abstract" class="level4">
 <h4 class="anchored" data-anchor-id="abstract">Abstract</h4>
+<p>Blah</p>
+</section>
+<section id="about-the-speaker" class="level4">
+<h4 class="anchored" data-anchor-id="about-the-speaker">About the Speaker</h4>
+<p>I am a faculty member with the discipline of Computer Science and Engineering at IIT Gandhinagar. My research interests include the interplay of structural graph theory and graph algorithms; tools and techniques in parameterized complexity; computational perspectives on combinatorial games; voting mechanisms, with a special focus on strategic behaviour; fair allocations of resources.</p>
+<div class="button-bar">
+<p><a href="" class="btn btn-outline-primary rounded-pill"><i class="fa fa-file-pdf"></i> Slides</a></p>
+</div>
+</section>
+<section id="recording" class="level4">
+<h4 class="anchored" data-anchor-id="recording">Recording</h4>
+<p></p>
+</section>
+<section id="abstract-1" class="level4">
+<h4 class="anchored" data-anchor-id="abstract-1">Abstract</h4>
 <p>&lt; meta abstract &gt;</p>
 
 
@@ -28,7 +43,7 @@
 
  ]]></description>
   <guid>https://seminars.historyofmaths.in/seminars-rss/2025-08-20.html</guid>
-  <pubDate>Thu, 10 Apr 2025 07:35:51 GMT</pubDate>
+  <pubDate>Invalid Date</pubDate>
 </item>
 </channel>
 </rss>
