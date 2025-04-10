@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/seminars-rss.html</loc>
-    <lastmod>2025-04-10T05:32:27.458Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/sample-pages/2025-05-02.html</loc>
-    <lastmod>2025-04-09T06:10:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/seminars/2025-04-16.html</loc>
-    <lastmod>2025-04-10T06:07:48.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/seminars-rss/2025-04-16.html</loc>
-    <lastmod>2025-04-10T06:08:02.583Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/sample-pages/2025-03-07.html</loc>
+    <loc>https://seminars.historyofmaths.in/sample-pages/2025-03-07.html</loc>
     <lastmod>2025-04-09T06:11:08.000Z</lastmod>
   </url>
   <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/index.html</loc>
-    <lastmod>2025-04-09T11:51:30.000Z</lastmod>
+    <loc>https://seminars.historyofmaths.in/seminars-rss/2025-05-21.html</loc>
+    <lastmod>2025-04-10T06:23:36.856Z</lastmod>
   </url>
   <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/updates.html</loc>
+    <loc>https://seminars.historyofmaths.in/updates.html</loc>
     <lastmod>2025-04-09T11:46:24.000Z</lastmod>
   </url>
   <url>
-    <loc>https://sites.iitgn.ac.in/homi/seminars/speakers.html</loc>
-    <lastmod>2025-04-10T05:29:30.150Z</lastmod>
+    <loc>https://seminars.historyofmaths.in/seminars-rss.html</loc>
+    <lastmod>2025-04-10T05:32:27.458Z</lastmod>
   </url>
   <url>
     <loc>https://seminars.historyofmaths.in/speakers.html</loc>
     <lastmod>2025-04-10T05:29:30.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seminars.historyofmaths.in/index.html</loc>
+    <lastmod>2025-04-09T11:51:30.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seminars.historyofmaths.in/seminars/2025-05-21.html</loc>
+    <lastmod>2025-04-10T06:23:33.626Z</lastmod>
+  </url>
+  <url>
+    <loc>https://seminars.historyofmaths.in/sample-pages/2025-05-02.html</loc>
+    <lastmod>2025-04-09T06:10:58.000Z</lastmod>
   </url>
 </urlset>

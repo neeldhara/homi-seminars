@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>HOMI Seminars</title>
-<link>https://sites.iitgn.ac.in/homi/seminars/seminars-rss.html</link>
-<atom:link href="https://sites.iitgn.ac.in/homi/seminars/seminars-rss.xml" rel="self" type="application/rss+xml"/>
+<link>https://seminars.historyofmaths.in/seminars-rss.html</link>
+<atom:link href="https://seminars.historyofmaths.in/seminars-rss.xml" rel="self" type="application/rss+xml"/>
 <description>HOMI Seminars is a seminar series under the History of Mathematics in India initiative at IITGN, focusing on the rich mathematical heritage of India.</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Invalid Date</lastBuildDate>
+<lastBuildDate>Thu, 10 Apr 2025 06:23:38 GMT</lastBuildDate>
 <item>
-  <title>Zero</title>
-  <link>https://sites.iitgn.ac.in/homi/seminars/seminars-rss/2025-04-16.html</link>
+  <title></title>
+  <link>https://seminars.historyofmaths.in/seminars-rss/2025-05-21.html</link>
   <description><![CDATA[ 
 
 
@@ -27,8 +27,8 @@
 </section>
 
  ]]></description>
-  <guid>https://sites.iitgn.ac.in/homi/seminars/seminars-rss/2025-04-16.html</guid>
-  <pubDate>Invalid Date</pubDate>
+  <guid>https://seminars.historyofmaths.in/seminars-rss/2025-05-21.html</guid>
+  <pubDate>Thu, 10 Apr 2025 06:23:38 GMT</pubDate>
 </item>
 </channel>
 </rss>

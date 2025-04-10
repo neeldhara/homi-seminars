@@ -81,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-title','listing-speaker','listing-affiliation','listing-abstract',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -168,7 +168,7 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.youtube.com/@HOMISeminars"> <i class="bi bi-youtube" role="img" aria-label="YouTube">
+    <a class="nav-link" href="https://www.youtube.com/@HOMI-IITGN"> <i class="bi bi-youtube" role="img" aria-label="YouTube">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -222,29 +222,17 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="NaN" data-listing-file-modified-sort="1744265282583" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1744266216856" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="./seminars-rss/2025-04-16.html" class="no-external">Zero</a>
+<a href="./seminars-rss/2025-05-21.html" class="no-external">Abstract</a>
 </h3>
 <div class="listing-subtitle">
-<a href="./seminars-rss/2025-04-16.html" class="no-external"></a>
+<a href="./seminars-rss/2025-05-21.html" class="no-external"></a>
 </div>
 </div>
 <div class="metadata">
-<a href="./seminars-rss/2025-04-16.html" class="no-external">
-<div class="listing-date">
-Invalid Date
-</div>
-<div class="metadata-value listing-speaker">
-Jane Doe
-</div>
-<div class="metadata-value listing-affiliation">
-Some Uni
-</div>
-<div class="metadata-value listing-abstract">
-<p>lorem ipusm</p>
-</div>
+<p><a href="./seminars-rss/2025-05-21.html" class="no-external"></a></p><a href="./seminars-rss/2025-05-21.html" class="no-external">
 </a>
 </div>
 </div>
@@ -343,7 +331,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/sites\.iitgn\.ac\.in\/homi\/seminars");
+      var filterRegex = new RegExp("https:\/\/seminars\.historyofmaths\.in");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
