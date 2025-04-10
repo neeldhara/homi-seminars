@@ -10,7 +10,26 @@
 <atom:link href="https://seminars.historyofmaths.in/seminars-rss.xml" rel="self" type="application/rss+xml"/>
 <description>HOMI Seminars is a seminar series under the History of Mathematics in India initiative at IITGN, focusing on the rich mathematical heritage of India.</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Thu, 10 Apr 2025 06:40:48 GMT</lastBuildDate>
+<lastBuildDate>Thu, 10 Apr 2025 06:43:46 GMT</lastBuildDate>
+<item>
+  <title></title>
+  <link>https://seminars.historyofmaths.in/seminars-rss/2025-04-16.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level4">
+<h4 class="anchored" data-anchor-id="abstract">Abstract</h4>
+<p>&lt; meta abstract &gt;</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://seminars.historyofmaths.in/seminars-rss/2025-04-16.html</guid>
+  <pubDate>Thu, 10 Apr 2025 06:43:46 GMT</pubDate>
+</item>
 <item>
   <title></title>
   <link>https://seminars.historyofmaths.in/seminars-rss/2025-02-21.html</link>
@@ -28,7 +47,7 @@
 
  ]]></description>
   <guid>https://seminars.historyofmaths.in/seminars-rss/2025-02-21.html</guid>
-  <pubDate>Thu, 10 Apr 2025 06:40:48 GMT</pubDate>
+  <pubDate>Thu, 10 Apr 2025 06:43:46 GMT</pubDate>
 </item>
 </channel>
 </rss>
