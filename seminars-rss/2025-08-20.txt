@@ -22,32 +22,4 @@ automation: clean
 
 #### Abstract
 
-{{< meta abstract >}}
-
-#### About the Speaker
-
-{{< meta bio >}}
-
-::: {.button-bar}
-[{{< fa file-pdf >}} Slides]({{< meta slides-url >}}){.btn .btn-outline-primary .rounded-pill}
-:::
-
-#### Recording
-
-{{< meta recording-url >}}
-
-#### Abstract
-
-{{< meta abstract >}}
-
-#### About the Speaker
-
-{{< meta bio >}}
-
-::: {.button-bar}
-[{{< fa file-pdf >}} Slides]({{< meta slides-url >}}){.btn .btn-outline-primary .rounded-pill}
-:::
-
-#### Recording
-
-{{< meta recording-url >}}
+< meta abstract >
