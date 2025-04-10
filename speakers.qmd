@@ -1,0 +1,19 @@
+---
+title: "For Speakers"
+page-layout: full
+title-block-banner: false
+---
+
+A few notes for speakers at the HOMI seminar series:
+
+1. By default, we record all talks and put them up on our Youtube channel^[to be announced] and on this website. If you prefer for your talk to not be recorded, please let us know in advance.
+
+2. The talks happen over Zoom. If you would like to test your AV in advance, please let us know. Typically the organizers log in 10 minutes ahead of the start of the seminar, which is in most cases enough time to test AV and screenshares, but if you would like to do this differently, please let us know.
+
+3. We will usually request you to share all your talk details via the form that you can find on this page. When you fill out the form the first time, you will receive an email with a link that will allow you to edit your details as you see fit. Every time you edit the details of your seminar, you will get a fresh update link.
+
+4. We use the details you share with us to spread the word about your talk on our social media accounts, whatsapp group, and mailing lists (typically once a week ahead of the seminar, and once on the day of the seminar). We will appreciate it if you could share these messages further in your networks, and also do let us know if there's anything specific you want us to include in these announcements apart from what you share on the form.
+
+5. If you have any questions at all, please get in touch with us over email at: `homi.iitgn@gmail.com`! We look forward to your talk :)
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appWl3ERrA49yVama/pagNM7FQQ1PKnj1FE/form" frameborder="0" onmousewheel="" width="100%" height="1400" style="background: transparent; border: 1px solid #ccc;"></iframe>

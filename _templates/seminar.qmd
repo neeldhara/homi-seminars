@@ -1,0 +1,36 @@
+---
+title: "Title of the Talk"
+speaker: "Speaker Name"
+affiliation: "Speaker's Institution"
+date: "YYYY-MM-DD"
+published: "YYYY-MM-DD"
+date-format: "MMMM D, YYYY"
+time: "18:00 IST"
+abstract: |
+  Abstract of the talk goes here. This should be a detailed description of what the talk will cover.
+bio: |
+  Speaker's biographical information goes here. Include their current position, research interests, and any notable achievements.
+speaker-website: ""
+recording-url: ""
+slides-url: ""
+status: "upcoming"  # Change to "past" after the seminar
+toc: false
+title-block-banner: false
+automation: clean
+---
+
+#### Abstract
+
+{{< meta abstract >}}
+
+#### About the Speaker
+
+{{< meta bio >}}
+
+::: {.button-bar}
+[{{< fa file-pdf >}} Slides]({{< meta slides-url >}}){.btn .btn-outline-primary .rounded-pill}
+:::
+
+#### Recording
+
+{{< meta recording-url >}}

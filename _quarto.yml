@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+  preview:
+    port: 4202
+    browser: false
+
+website:
+  title: "HOMI Seminars"
+  site-url: "https://seminars.historyofmaths.in"
+  description: "HOMI Seminars is a seminar series under the History of Mathematics in India initiative at IITGN, focusing on the rich mathematical heritage of India."
+  favicon: "images/favicon.ico"
+  open-graph: true
+  twitter-card: true
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: updates.qmd
+        text: "Stay Updated"
+      - href: speakers.qmd
+        text: "For Speakers"
+    right:
+      - icon: youtube
+        href: https://www.youtube.com/@HOMI-IITGN
+        aria-label: YouTube
+      - icon: rss
+        href: seminars-rss.xml
+        aria-label: RSS
+      - icon: house
+        href: https://sites.iitgn.ac.in/homi/index.php
+        aria-label: HOMI Main Site
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400;1,600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+    mainfont: "Source Sans 3"
+    monofont: "Source Code Pro"
+    headingfont: "Crimson Pro"
+    toc: false
+    page-layout: full
+    title-block-banner: false
+
+page-footer:
+  right: "Built with [Quarto](https://quarto.org/)"

@@ -1,0 +1,54 @@
+---
+title: "History of Mathematics in India: Seminar Series"
+---
+
+
+Welcome to the homepage for the HOMI (History of Mathematics in India) seminar series! This is a virtual monthly seminar series, where we discuss the rich mathematical heritage of India from ancient Vedic times to the modern era, exploring both historical developments and their contemporary relevance.
+
+::: {.callout}
+<i class="fa-regular fa-calendar"></i> We meet [over Zoom](https://iitgn-ac-in.zoom.us/j/98651912771?pwd=IiOVTraKRIKgbaqLb0c0wTLe4CavJu.1) at 17:00 IST on the third Wednesday of each month. If the link does not work, you can use the meeting ID `986 5191 2771` with passcode `ZERO`.
+:::
+
+We also welcome you to suggest a seminar! Feel free to sign yourself up, or someone you want to hear, or just share a topic that you want to learn about. You can do this by sending an email to `homi.iitgn@gmail.com`.
+
+### Organizers
+
+::: {.organizer-grid}
+
+::: {.organizer}
+![](images/organizer-1.jpg)
+
+::: {.organizer-info}
+#### Neeldhara Misra
+Associate Professor, CSE
+
+IIT Gandhinagar
+:::
+:::
+
+::: {.organizer}
+![](images/organizer-2.jpg)
+
+::: {.organizer-info}
+#### Akshaa Vatwani
+Associate Professor, Mathematics
+
+IIT Gandhinagar
+:::
+:::
+
+:::
+
+::: {.panel-tabset}
+
+## Upcoming Seminars
+
+:::{#upcoming}
+:::
+
+## Past Seminars
+
+:::{#past}
+:::
+
+:::

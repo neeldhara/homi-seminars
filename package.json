@@ -1,0 +1,10 @@
+{
+  "name": "homi-seminars",
+  "version": "1.0.0",
+  "description": "HOMI Seminars website",
+  "scripts": {
+    "build": "quarto render",
+    "preview": "quarto preview"
+  },
+  "dependencies": {}
+}
