@@ -7,18 +7,25 @@
     "text": "Abstract\nThis talk explores the system of mental calculation known as “Vedic Mathematics,” based on principles derived from ancient Indian mathematical texts. We’ll examine how these techniques provide elegant and efficient methods for arithmetic, algebra, and geometry, and discuss their pedagogical value in contemporary mathematics education.\n\n\nAbout the Speaker\nDr. Amartya K Dutta is a Professor at the Indian Statistical Institute, Kolkata. His research interests include commutative algebra, algebraic geometry, and the history of Indian mathematics. He has published extensively on both modern mathematical topics and historical Indian mathematical traditions.\n\n Slides\n\n\n\nRecording"
   },
   {
-    "objectID": "updates.html",
-    "href": "updates.html",
-    "title": "Stay Updated",
+    "objectID": "seminars-rss/20250416.html",
+    "href": "seminars-rss/20250416.html",
+    "title": "The Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations",
     "section": "",
-    "text": "You can subscribe to our RSS feed to get automatic updates about upcoming seminars:  RSS Feed.\nYou can also add the HOMI Seminar Calendar to your own calendar.\nYou can also join the HOMI Seminar Whatsapp Group for reminders.\n\nFinally, you can drop your email below for email updates:\n\nEnter your email"
+    "text": "In this presentation we will look at the ancient kuṭṭaka method for obtaining the least positive integral solutions to linear Diophantine equations. Based primarily on the method explicated by Bhāskara II in his Līlāvatī, we will explore a simplified version of the algorithm for solving equations of the form ax +/- by = +/- c, while also considering the relationship and parallelism of this technique with the extended Euclidean algorithm. Furthermore, we consider various counter-examples which do not result in viable integral solutions and offer possible extensions of the method to arrive at a more robust, generalized algorithm."
   },
   {
-    "objectID": "seminars-rss.html",
-    "href": "seminars-rss.html",
-    "title": "HOMI Seminars RSS",
+    "objectID": "seminars/20250416.html",
+    "href": "seminars/20250416.html",
+    "title": "The Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations",
     "section": "",
-    "text": "Epistemological Foundations of Mathematical Proof\n\n\n\n\n\n\n\n\nJun 18, 2025\n\n\nAalok Thakkar\n\n\nAshoka University\n\n\nComing Soon.\n\n\n\n\n\n\n\nThe Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations\n\n\n\n\n\n\n\n\nApr 16, 2025\n\n\nSrinivas Reddy\n\n\nIIT Gandhinagar\n\n\nIn this presentation we will look at the ancient kuṭṭaka method for obtaining the least positive integral solutions to linear Diophantine equations. Based primarily on the method explicated by Bhāskara II in his Līlāvatī, we will explore a simplified version of the algorithm for solving equations of the form ax +/- by = +/- c, while also considering the relationship and parallelism of this technique with the extended Euclidean algorithm. Furthermore, we consider various counter-examples which do not result in viable integral solutions and offer possible extensions of the method to arrive at a more robust, generalized algorithm.\n\n\n\n\n\n\nNo matching items"
+    "text": "Join us over Zoom at 18:00 IST on April 16, 2025. If the link does not work, you can use the meeting ID 986 5191 2771 with passcode ZERO.\n\n\n\n\nAbout the Speaker\nSrinivas Reddy is a scholar, translator and classical sitarist. He has published five books including Raya: Krishnadevaraya of Vijayanagara (Juggernaut 2020) and Illuminating Worlds: An Anthology of Classical Indian Literature (Bloomsbury 2024). He is currently a Fulbright-Nehru fellow at IIT Gandhinagar.\n\nWebsite\n\n\n\nRecording\nA recording will be available by the end of the week."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "History of Mathematics in India: Seminar Series",
+    "section": "",
+    "text": "Welcome to the homepage for the HOMI (History of Mathematics in India) seminar series! This is a virtual monthly seminar series, where we discuss the rich mathematical heritage of India from ancient Vedic times to the modern era, exploring both historical developments and their contemporary relevance.\n\n\n\n\n\n\n We meet over Zoom at 17:00 IST on the third Wednesday of each month. If the link does not work, you can use the meeting ID 986 5191 2771 with passcode ZERO.\n\n\n\nWe also welcome you to suggest a seminar! Feel free to sign yourself up, or someone you want to hear, or just share a topic that you want to learn about. You can do this by sending an email to homi.iitgn@gmail.com.\n\nOrganizers\n\n\n\n\nNeeldhara Misra\nAssociate Professor, CSE\nIIT Gandhinagar\n\n\n\n\n\nAkshaa Vatwani\nAssociate Professor, Mathematics\nIIT Gandhinagar\n\n\n\n\nUpcoming SeminarsPast Seminars\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nSpeaker\n\n\n\n\n\n\nJun 18, 2025\n\n\nEpistemological Foundations of Mathematical Proof\n\n\nAalok Thakkar\n\n\n\n\nApr 16, 2025\n\n\nThe Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations\n\n\nSrinivas Reddy\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nSpeaker\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "speakers.html",
@@ -35,25 +42,18 @@
     "text": "Footnotes\n\n\nto be announced↩︎"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "History of Mathematics in India: Seminar Series",
+    "objectID": "seminars-rss.html",
+    "href": "seminars-rss.html",
+    "title": "HOMI Seminars RSS",
     "section": "",
-    "text": "Welcome to the homepage for the HOMI (History of Mathematics in India) seminar series! This is a virtual monthly seminar series, where we discuss the rich mathematical heritage of India from ancient Vedic times to the modern era, exploring both historical developments and their contemporary relevance.\n\n\n\n\n\n\n We meet over Zoom at 17:00 IST on the third Wednesday of each month. If the link does not work, you can use the meeting ID 986 5191 2771 with passcode ZERO.\n\n\n\nWe also welcome you to suggest a seminar! Feel free to sign yourself up, or someone you want to hear, or just share a topic that you want to learn about. You can do this by sending an email to homi.iitgn@gmail.com.\n\nOrganizers\n\n\n\n\nNeeldhara Misra\nAssociate Professor, CSE\nIIT Gandhinagar\n\n\n\n\n\nAkshaa Vatwani\nAssociate Professor, Mathematics\nIIT Gandhinagar\n\n\n\n\nUpcoming SeminarsPast Seminars\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nSpeaker\n\n\n\n\n\n\nJun 18, 2025\n\n\nEpistemological Foundations of Mathematical Proof\n\n\nAalok Thakkar\n\n\n\n\nApr 16, 2025\n\n\nThe Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations\n\n\nSrinivas Reddy\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nSpeaker\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations\n\n\n\n\n\n\n\n\nApr 16, 2025\n\n\nSrinivas Reddy\n\n\nIIT Gandhinagar\n\n\nIn this presentation we will look at the ancient kuṭṭaka method for obtaining the least positive integral solutions to linear Diophantine equations. Based primarily on the method explicated by Bhāskara II in his Līlāvatī, we will explore a simplified version of the algorithm for solving equations of the form ax +/- by = +/- c, while also considering the relationship and parallelism of this technique with the extended Euclidean algorithm. Furthermore, we consider various counter-examples which do not result in viable integral solutions and offer possible extensions of the method to arrive at a more robust, generalized algorithm.\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "sample-pages/2025-05-02.html",
-    "href": "sample-pages/2025-05-02.html",
-    "title": "The Kerala School of Mathematics: Contributions and Legacy",
+    "objectID": "updates.html",
+    "href": "updates.html",
+    "title": "Stay Updated",
     "section": "",
-    "text": "Abstract\nThis talk will explore the remarkable contributions of the Kerala School of Mathematics (14th-16th centuries), focusing on their pioneering work in infinite series, calculus, and astronomy. We’ll discuss how these mathematicians, including Madhava of Sangamagrama, developed sophisticated mathematical techniques centuries before similar developments in Europe, and examine their enduring legacy in the history of mathematics.\n\n\nAbout the Speaker\nDr. K. Ramasubramanian is a Professor at the Cell for Indian Science and Technology in Sanskrit, IIT Bombay. He specializes in Indian mathematics, astronomy, and scientific heritage. He has translated several ancient mathematical texts and is a recipient of the prestigious Maharshi Badarayan Vyas Samman award.\n\n Slides\n\n\n\nRecording"
-  },
-  {
-    "objectID": "seminars/20250416.html",
-    "href": "seminars/20250416.html",
-    "title": "The Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations",
-    "section": "",
-    "text": "Join us over Zoom at 18:00 IST on April 16, 2025. If the link does not work, you can use the meeting ID 986 5191 2771 with passcode ZERO.\n\n\n\n\nAbout the Speaker\nSrinivas Reddy is a scholar, translator and classical sitarist. He has published five books including Raya: Krishnadevaraya of Vijayanagara (Juggernaut 2020) and Illuminating Worlds: An Anthology of Classical Indian Literature (Bloomsbury 2024). He is currently a Fulbright-Nehru fellow at IIT Gandhinagar.\n\nWebsite\n\n\n\nRecording\nA recording will be available by the end of the week."
+    "text": "You can subscribe to our RSS feed to get automatic updates about upcoming seminars:  RSS Feed.\nYou can also add the HOMI Seminar Calendar to your own calendar.\nYou can also join the HOMI Seminar Whatsapp Group for reminders.\n\nFinally, you can drop your email below for email updates:\n\nEnter your email"
   },
   {
     "objectID": "seminars/20250618.html",
@@ -63,17 +63,10 @@
     "text": "Join us over Zoom at 18:00 IST on June 18, 2025. If the link does not work, you can use the meeting ID 986 5191 2771 with passcode ZERO.\n\n\n\n\nAbout the Speaker\nAalok Thakkar is an Assistant Professor at the Ashoka School of Advanced Computing and an Alt-Carbon Darjeeling Revival Fellow at Ashoka University. He works on the applications of formal logic to programming languages, automated verification, and program synthesis. He is also actively engaged in computer science pedagogy and is committed to advancing accessibility in computing education. He maintains a strong interest in the history and philosophy of mathematics, particularly in how foundational ideas shape contemporary formal methods.  He received his PhD in 2023 from the University of Pennsylvania, advised by Rajeev Alur and Mayur Naik. During this time he developed the Example-Guided framework for program synthesis. He completed his undergraduate studies at the Chennai Mathematical Institute.\n\nWebsite\n\n\n\nRecording\nA recording will be available by the end of the week."
   },
   {
-    "objectID": "seminars-rss/20250416.html",
-    "href": "seminars-rss/20250416.html",
-    "title": "The Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations",
+    "objectID": "sample-pages/2025-05-02.html",
+    "href": "sample-pages/2025-05-02.html",
+    "title": "The Kerala School of Mathematics: Contributions and Legacy",
     "section": "",
-    "text": "In this presentation we will look at the ancient kuṭṭaka method for obtaining the least positive integral solutions to linear Diophantine equations. Based primarily on the method explicated by Bhāskara II in his Līlāvatī, we will explore a simplified version of the algorithm for solving equations of the form ax +/- by = +/- c, while also considering the relationship and parallelism of this technique with the extended Euclidean algorithm. Furthermore, we consider various counter-examples which do not result in viable integral solutions and offer possible extensions of the method to arrive at a more robust, generalized algorithm."
-  },
-  {
-    "objectID": "seminars-rss/20250618.html",
-    "href": "seminars-rss/20250618.html",
-    "title": "Epistemological Foundations of Mathematical Proof",
-    "section": "",
-    "text": "Coming Soon."
+    "text": "Abstract\nThis talk will explore the remarkable contributions of the Kerala School of Mathematics (14th-16th centuries), focusing on their pioneering work in infinite series, calculus, and astronomy. We’ll discuss how these mathematicians, including Madhava of Sangamagrama, developed sophisticated mathematical techniques centuries before similar developments in Europe, and examine their enduring legacy in the history of mathematics.\n\n\nAbout the Speaker\nDr. K. Ramasubramanian is a Professor at the Cell for Indian Science and Technology in Sanskrit, IIT Bombay. He specializes in Indian mathematics, astronomy, and scientific heritage. He has translated several ancient mathematical texts and is a recipient of the prestigious Maharshi Badarayan Vyas Samman award.\n\n Slides\n\n\n\nRecording"
   }
 ]
