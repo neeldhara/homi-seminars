@@ -1,0 +1,40 @@
+---
+title: "Epistemological Foundations of Mathematical Proof"
+speaker: "Aalok Thakkar"
+affiliation: "Ashoka University"
+published: "2025-06-18"
+date: "2025-06-18"
+date-format: "MMMM D, YYYY"
+email: "aalok.thakkar@ashoka.edu.in"
+time: "18:00 IST"
+abstract: |
+  Coming Soon.
+bio: |
+  Aalok Thakkar is an Assistant Professor at the Ashoka School of Advanced Computing and an Alt-Carbon Darjeeling Revival Fellow at Ashoka University. He works on the applications of formal logic to programming languages, automated verification, and program synthesis. He is also actively engaged in computer science pedagogy and is committed to advancing accessibility in computing education. He maintains a strong interest in the history and philosophy of mathematics, particularly in how foundational ideas shape contemporary formal methods.
+  <br><br>
+  He received his PhD in 2023 from the University of Pennsylvania, advised by Rajeev Alur and Mayur Naik. During this time he developed the Example-Guided framework for program synthesis. He completed his undergraduate studies at the Chennai Mathematical Institute.
+speaker-website: "https://www.sankalpana.org"
+recording-url: ""
+slides-url: ""
+status: "upcoming"  # Change to "past" after the seminar
+toc: false
+title-block-banner: false
+automation: clean
+---
+
+::: {.callout}
+<i class="fa-regular fa-calendar"></i> Join us [over Zoom](https://iitgn-ac-in.zoom.us/j/98651912771?pwd=IiOVTraKRIKgbaqLb0c0wTLe4CavJu.1) at 18:00 IST on {{< meta date >}}. If the link does not work, you can use the meeting ID `986 5191 2771` with passcode `ZERO`.
+:::
+
+#### About the Speaker
+
+{{< meta bio >}}
+
+::: {.button-bar}
+[Website]({{< meta speaker-website >}})
+:::
+
+
+#### Recording
+
+A recording will be available by the end of the week.

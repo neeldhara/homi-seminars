@@ -1,0 +1,25 @@
+---
+title: "The Kuṭṭaka Algorithm: <br>Generalized Methods for Solving Linear Diophantine Equations"
+speaker: "Srinivas Reddy"
+affiliation: "IIT Gandhinagar"
+published: "2025-04-08"
+date: "2025-04-16"
+date-format: "MMMM D, YYYY"
+email: "sitarsrini@gmail.com"
+time: "18:00 IST"
+abstract: |
+  In this presentation we will look at the ancient kuṭṭaka method for obtaining the least positive integral solutions to linear Diophantine equations. Based primarily on the method explicated by Bhāskara II in his Līlāvatī, we will explore a simplified version of the algorithm for solving equations of the form ax +/- by = +/- c, while also considering the relationship and parallelism of this technique with the extended Euclidean algorithm. Furthermore, we consider various counter-examples which do not result in viable integral solutions and offer possible extensions of the method to arrive at a more robust, generalized algorithm.
+bio: |
+  Srinivas Reddy is a scholar, translator and classical sitarist. He has published five books including Raya: Krishnadevaraya of Vijayanagara (Juggernaut 2020) and Illuminating Worlds: An Anthology of Classical Indian Literature (Bloomsbury 2024). He is currently a Fulbright-Nehru fellow at IIT Gandhinagar.
+speaker-website: "https://www.sankalpana.org"
+recording-url: ""
+slides-url: ""
+status: "upcoming"  # Change to "past" after the seminar
+toc: false
+title-block-banner: false
+automation: clean
+---
+
+
+{{< meta abstract >}}
+

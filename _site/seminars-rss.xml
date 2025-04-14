@@ -10,6 +10,38 @@
 <atom:link href="https://seminars.historyofmaths.in/seminars-rss.xml" rel="self" type="application/rss+xml"/>
 <description>HOMI Seminars is a seminar series under the History of Mathematics in India initiative at IITGN, focusing on the rich mathematical heritage of India.</description>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Fri, 11 Apr 2025 03:41:51 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Jun 2025 18:30:00 GMT</lastBuildDate>
+<item>
+  <title>Epistemological Foundations of Mathematical Proof</title>
+  <link>https://seminars.historyofmaths.in/seminars-rss/20250618.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Coming Soon.</p>
+
+
+
+ ]]></description>
+  <guid>https://seminars.historyofmaths.in/seminars-rss/20250618.html</guid>
+  <pubDate>Tue, 17 Jun 2025 18:30:00 GMT</pubDate>
+</item>
+<item>
+  <title>The Kuṭṭaka Algorithm: Generalized Methods for Solving Linear Diophantine Equations</title>
+  <link>https://seminars.historyofmaths.in/seminars-rss/20250416.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In this presentation we will look at the ancient kuṭṭaka method for obtaining the least positive integral solutions to linear Diophantine equations. Based primarily on the method explicated by Bhāskara II in his Līlāvatī, we will explore a simplified version of the algorithm for solving equations of the form ax +/- by = +/- c, while also considering the relationship and parallelism of this technique with the extended Euclidean algorithm. Furthermore, we consider various counter-examples which do not result in viable integral solutions and offer possible extensions of the method to arrive at a more robust, generalized algorithm.</p>
+
+
+
+ ]]></description>
+  <guid>https://seminars.historyofmaths.in/seminars-rss/20250416.html</guid>
+  <pubDate>Tue, 15 Apr 2025 18:30:00 GMT</pubDate>
+</item>
 </channel>
 </rss>

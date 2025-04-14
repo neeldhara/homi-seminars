@@ -1,10 +1,16 @@
 [
   {
     "listing": "/seminars-rss.html",
-    "items": []
+    "items": [
+      "/seminars-rss/20250618.html",
+      "/seminars-rss/20250416.html"
+    ]
   },
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/seminars/20250618.html",
+      "/seminars/20250416.html"
+    ]
   }
 ]
